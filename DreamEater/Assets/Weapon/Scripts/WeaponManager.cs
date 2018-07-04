@@ -34,7 +34,7 @@ public class WeaponManager : NetworkBehaviour {
         currentWeapon = _weapon;
 
         GameObject _weaponIns = Instantiate(_weapon.graphics, weaponHolder.position, weaponHolder.rotation);
-        _weaponIns.transform.SetParent(weaponHolder);
+        _weaponIns.transform.SetParent(weaponHolder, false);
 
         currentGraphics = _weaponIns.GetComponent<WeaponGraphics>();
         if (currentGraphics == null) {

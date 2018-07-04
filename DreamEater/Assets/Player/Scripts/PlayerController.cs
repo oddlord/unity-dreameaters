@@ -2,7 +2,6 @@
 
 [RequireComponent(typeof(PlayerMotor))]
 [RequireComponent(typeof(ConfigurableJoint))]
-[RequireComponent(typeof(Animator))]
 public class PlayerController : MonoBehaviour {
 
     [SerializeField]
@@ -35,12 +34,10 @@ public class PlayerController : MonoBehaviour {
     // Component caching
     private PlayerMotor motor;
     private ConfigurableJoint joint;
-    private Animator animator;
 
     void Start() {
         motor = GetComponent<PlayerMotor>();
         joint = GetComponent<ConfigurableJoint>();
-        animator = GetComponent<Animator>();
 
         SetJointSettings(jointSpring);
     }
@@ -80,9 +77,6 @@ public class PlayerController : MonoBehaviour {
 
         // Final movement vector
         Vector3 _velocity = (_movHorizontal + _movVertical) * speed;
-
-        // Animate movement
-        animator.SetFloat("ForwardVelocity", _zMov);
 
         // Apply movement
         motor.Move(_velocity);
