@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 4084338524868282}
   - component: {fileID: 108441722873520402}
   m_Layer: 8
-  m_Name: Point Light
+  m_Name: Halo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -312,8 +312,8 @@ GameObject:
   - component: {fileID: 114010006038345888}
   - component: {fileID: 114104841799077592}
   - component: {fileID: 114073141749936450}
-  - component: {fileID: 136703620227500416}
   - component: {fileID: 64648414838678670}
+  - component: {fileID: 136741218276063774}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -777,7 +777,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1056968003952322}
   m_LocalRotation: {x: -0.086286664, y: 0, z: 0, w: 0.99627036}
-  m_LocalPosition: {x: -0, y: 0.311, z: 0.006}
+  m_LocalPosition: {x: -0, y: 0.311, z: -0.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4064021468971660}
@@ -949,7 +949,7 @@ MeshCollider:
   m_GameObject: {fileID: 1677056869069894}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Convex: 0
   m_CookingOptions: 14
@@ -990,8 +990,8 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.9478395, g: 0.18427375, b: 0.9528302, a: 1}
-  m_Intensity: 0.8
-  m_Range: 10
+  m_Intensity: 0.3
+  m_Range: 7
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
@@ -1447,7 +1447,7 @@ Behaviour:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1056968003952322}
   m_Enabled: 1
---- !u!136 &136703620227500416
+--- !u!136 &136741218276063774
 CapsuleCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -1455,11 +1455,11 @@ CapsuleCollider:
   m_GameObject: {fileID: 1677056869069894}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
-  m_Radius: 0.23806228
-  m_Height: 0.6108652
+  m_Enabled: 1
+  m_Radius: 0.26
+  m_Height: 0.72
   m_Direction: 1
-  m_Center: {x: 0, y: 0.2645674, z: -0.07}
+  m_Center: {x: 0, y: 0.24, z: -0.06}
 --- !u!137 &137637528765407542
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
