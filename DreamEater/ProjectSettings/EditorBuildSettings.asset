@@ -12,7 +12,10 @@ EditorBuildSettings:
     path: Assets/Lobby.unity
     guid: d63ef69008cfa1f4386846e4adb81e28
   - enabled: 1
-    path: Assets/MainLevelForest.unity
+    path: Assets/Forest2.unity
+    guid: f94b852512b22d541a6e0f86da9af837
+  - enabled: 0
+    path: Assets/Forest.unity
     guid: fc2b3cd95c43cd546968f0cce296b2b6
   - enabled: 0
     path: Assets/MainLevel01.unity
