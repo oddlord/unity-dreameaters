@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: eac21a9a8ed0dd14d8eb5649bf815938
+timeCreated: 1453260189
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: art_1
+    100002: art_2
+    100004: art_3
+    100006: art_4
+    100008: art_5
+    100010: back_wall
+    100012: bed
+    100014: //RootNode
+    100016: blanket
+    100018: ceiling
+    100020: cupboard_body
+    100022: cupboard_decor
+    100024: cupboard_doors
+    100026: cupboard_handles
+    100028: curtain_holder_L
+    100030: curtain_holder_R
+    100032: curtain_L
+    100034: curtain_R
+    100036: device
+    100038: door
+    100040: door_handle
+    100042: dvd
+    100044: dvd 1
+    100046: floor
+    100048: foots
+    100050: Frames
+    100052: lamp
+    100054: lamp 1
+    100056: lamp_body
+    100058: lamp_body 1
+    100060: lamp_L
+    100062: lamp_R
+    100064: lighters
+    100066: lighters_emission
+    100068: nightstand
+    100070: nightstand 1
+    100072: pillow_1
+    100074: pillow_2
+    100076: pillow_3
+    100078: plinth
+    100080: plinth 1
+    100082: speaker
+    100084: speaker 1
+    100086: speaker 2
+    100088: sub
+    100090: tulle
+    100092: tv
+    100094: tv_table_base
+    100096: tv_table_metal_parts
+    100098: tv_table_part
+    100100: walls
+    400000: art_1
+    400002: art_2
+    400004: art_3
+    400006: art_4
+    400008: art_5
+    400010: back_wall
+    400012: bed
+    400014: //RootNode
+    400016: blanket
+    400018: ceiling
+    400020: cupboard_body
+    400022: cupboard_decor
+    400024: cupboard_doors
+    400026: cupboard_handles
+    400028: curtain_holder_L
+    400030: curtain_holder_R
+    400032: curtain_L
+    400034: curtain_R
+    400036: device
+    400038: door
+    400040: door_handle
+    400042: dvd
+    400044: dvd 1
+    400046: floor
+    400048: foots
+    400050: Frames
+    400052: lamp
+    400054: lamp 1
+    400056: lamp_body
+    400058: lamp_body 1
+    400060: lamp_L
+    400062: lamp_R
+    400064: lighters
+    400066: lighters_emission
+    400068: nightstand
+    400070: nightstand 1
+    400072: pillow_1
+    400074: pillow_2
+    400076: pillow_3
+    400078: plinth
+    400080: plinth 1
+    400082: speaker
+    400084: speaker 1
+    400086: speaker 2
+    400088: sub
+    400090: tulle
+    400092: tv
+    400094: tv_table_base
+    400096: tv_table_metal_parts
+    400098: tv_table_part
+    400100: walls
+    2300000: art_1
+    2300002: art_2
+    2300004: art_3
+    2300006: art_4
+    2300008: art_5
+    2300010: back_wall
+    2300012: bed
+    2300014: blanket
+    2300016: ceiling
+    2300018: cupboard_body
+    2300020: cupboard_decor
+    2300022: cupboard_doors
+    2300024: cupboard_handles
+    2300026: curtain_holder_L
+    2300028: curtain_holder_R
+    2300030: curtain_L
+    2300032: curtain_R
+    2300034: device
+    2300036: door
+    2300038: door_handle
+    2300040: dvd
+    2300042: dvd 1
+    2300044: floor
+    2300046: foots
+    2300048: Frames
+    2300050: lamp
+    2300052: lamp 1
+    2300054: lamp_body
+    2300056: lamp_body 1
+    2300058: lamp_L
+    2300060: lamp_R
+    2300062: lighters
+    2300064: lighters_emission
+    2300066: nightstand
+    2300068: nightstand 1
+    2300070: pillow_1
+    2300072: pillow_2
+    2300074: pillow_3
+    2300076: plinth
+    2300078: plinth 1
+    2300080: speaker
+    2300082: speaker 1
+    2300084: speaker 2
+    2300086: sub
+    2300088: tulle
+    2300090: tv
+    2300092: tv_table_base
+    2300094: tv_table_metal_parts
+    2300096: tv_table_part
+    2300098: walls
+    3300000: art_1
+    3300002: art_2
+    3300004: art_3
+    3300006: art_4
+    3300008: art_5
+    3300010: back_wall
+    3300012: bed
+    3300014: blanket
+    3300016: ceiling
+    3300018: cupboard_body
+    3300020: cupboard_decor
+    3300022: cupboard_doors
+    3300024: cupboard_handles
+    3300026: curtain_holder_L
+    3300028: curtain_holder_R
+    3300030: curtain_L
+    3300032: curtain_R
+    3300034: device
+    3300036: door
+    3300038: door_handle
+    3300040: dvd
+    3300042: dvd 1
+    3300044: floor
+    3300046: foots
+    3300048: Frames
+    3300050: lamp
+    3300052: lamp 1
+    3300054: lamp_body
+    3300056: lamp_body 1
+    3300058: lamp_L
+    3300060: lamp_R
+    3300062: lighters
+    3300064: lighters_emission
+    3300066: nightstand
+    3300068: nightstand 1
+    3300070: pillow_1
+    3300072: pillow_2
+    3300074: pillow_3
+    3300076: plinth
+    3300078: plinth 1
+    3300080: speaker
+    3300082: speaker 1
+    3300084: speaker 2
+    3300086: sub
+    3300088: tulle
+    3300090: tv
+    3300092: tv_table_base
+    3300094: tv_table_metal_parts
+    3300096: tv_table_part
+    3300098: walls
+    4300000: plinth
+    4300002: ceiling
+    4300004: foots
+    4300006: bed
+    4300008: nightstand
+    4300010: lamp_R
+    4300012: plinth
+    4300014: walls
+    4300016: back_wall
+    4300018: lamp_L
+    4300020: tulle
+    4300022: nightstand
+    4300024: tv
+    4300026: pillow_3
+    4300028: pillow_1
+    4300030: pillow_2
+    4300032: cupboard_doors
+    4300034: cupboard_handles
+    4300036: cupboard_decor
+    4300038: cupboard_body
+    4300040: art_1
+    4300042: Frames
+    4300044: art_2
+    4300046: lighters_emission
+    4300048: lighters
+    4300050: lamp_body
+    4300052: lamp
+    4300054: lamp_body
+    4300056: lamp
+    4300058: tv_table_base
+    4300060: tv_table_metal_parts
+    4300062: tv_table_part
+    4300064: curtain_L
+    4300066: curtain_R
+    4300068: curtain_holder_R
+    4300070: curtain_holder_L
+    4300072: dvd
+    4300074: device
+    4300076: floor
+    4300078: blanket
+    4300080: sub
+    4300082: dvd
+    4300084: speaker
+    4300086: speaker
+    4300088: speaker
+    4300090: door
+    4300092: door_handle
+    4300094: art_4
+    4300096: art_5
+    4300098: art_3
+    6400000: art_1
+    6400002: art_2
+    6400004: art_3
+    6400006: art_4
+    6400008: art_5
+    6400010: back_wall
+    6400012: bed
+    6400014: blanket
+    6400016: ceiling
+    6400018: cupboard_body
+    6400020: cupboard_decor
+    6400022: cupboard_handles
+    6400024: curtain_holder_L
+    6400026: curtain_holder_R
+    6400028: curtain_L
+    6400030: device
+    6400032: door
+    6400034: door_handle
+    6400036: dvd
+    6400038: dvd 1
+    6400040: floor
+    6400042: foots
+    6400044: Frames
+    6400046: lamp
+    6400048: lamp 1
+    6400050: lamp_body
+    6400052: lamp_body 1
+    6400054: lamp_L
+    6400056: lamp_R
+    6400058: lighters
+    6400060: lighters_emission
+    6400062: nightstand
+    6400064: nightstand 1
+    6400066: pillow_1
+    6400068: pillow_2
+    6400070: pillow_3
+    6400072: plinth
+    6400074: plinth 1
+    6400076: speaker
+    6400078: speaker 1
+    6400080: speaker 2
+    6400082: sub
+    6400084: tulle
+    6400086: tv
+    6400088: tv_table_base
+    6400090: tv_table_metal_parts
+    6400092: tv_table_part
+    6400094: walls
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

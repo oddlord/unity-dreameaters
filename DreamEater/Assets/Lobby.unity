@@ -1799,8 +1799,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1518299660}
   m_HandleRect: {fileID: 1518299659}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.9999999
+  m_Value: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3344,7 +3344,7 @@ Prefab:
     - target: {fileID: 114576408542760616, guid: 5b44b0a2e86725c4eb7bd160e78dfc65,
         type: 2}
       propertyPath: m_OnlineScene
-      value: Forest
+      value: Bedroom
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5b44b0a2e86725c4eb7bd160e78dfc65, type: 2}
