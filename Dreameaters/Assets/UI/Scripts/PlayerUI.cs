@@ -58,11 +58,11 @@ public class PlayerUI : MonoBehaviour {
     }
 
     void SetFuelAmount(float _amount) {
-        thrusterFuelFill.localScale = new Vector3(1f, _amount, 1f);
+        thrusterFuelFill.localScale = new Vector3(_amount, 1f, 1f);
     }
 
     void SetHealthAmount(float _amount) {
-        healthbarFill.localScale = new Vector3(1f, _amount, 1f);
+        healthbarFill.localScale = new Vector3(_amount, 1f, 1f);
     }
 
     void SetAmmoAmount(int _amount) {

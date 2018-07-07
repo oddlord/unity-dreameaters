@@ -16,3 +16,4 @@ Only the winner will eat!
 * [Bedroom](https://assetstore.unity.com/packages/3d/props/interior/bedroom-9337) environment asset by [Vertex Studio](https://assetstore.unity.com/publishers/2053)
 * [Sci-Fi Guns](https://assetstore.unity.com/packages/3d/props/guns/sci-fi-guns-88461) weapon asset by [Astronaut](https://assetstore.unity.com/publishers/24538)
 * [Level 1 Monster Pack](https://assetstore.unity.com/packages/3d/characters/creatures/level-1-monster-pack-77703) character asset by [PI Entertainment Limited](https://assetstore.unity.com/publishers/10960)
+* [64 Flat Game Icons](https://assetstore.unity.com/packages/2d/gui/icons/64-flat-game-icons-36440) icons asset by [Office57](https://assetstore.unity.com/publishers/13242)
