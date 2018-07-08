@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Oddlord
-  productName: MultiplayerFPS
+  productName: Dreameaters
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -621,11 +621,15 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 550b54dc-408d-4ab2-8758-01c0a87b4c28
-  projectName: MultiplayerFPS
+  cloudProjectId: f84d899e-608d-49f2-87b4-050112f018d6
+  projectName: Dreameaters
   organizationId: oddlord
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
