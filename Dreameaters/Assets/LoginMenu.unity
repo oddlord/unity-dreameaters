@@ -13,7 +13,7 @@ OcclusionCullingSettings:
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 8
+  serializedVersion: 9
   m_Fog: 0
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
@@ -39,6 +39,7 @@ RenderSettings:
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
   m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -54,11 +55,10 @@ LightmapSettings:
     m_EnableBakedLightmaps: 1
     m_EnableRealtimeLightmaps: 1
   m_LightmapEditorSettings:
-    serializedVersion: 9
+    serializedVersion: 10
     m_Resolution: 2
     m_BakeResolution: 40
-    m_TextureWidth: 1024
-    m_TextureHeight: 1024
+    m_AtlasSize: 1024
     m_AO: 0
     m_AOMaxDistance: 1
     m_CompAOExponent: 1
@@ -288,7 +288,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 459.2, y: -572.81726}
+  m_AnchoredPosition: {x: 459.2, y: -815.13696}
   m_SizeDelta: {x: 918.4, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &99476863
@@ -482,8 +482,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 459.2, y: -644.2589}
-  m_SizeDelta: {x: 918.4, y: 42.88325}
+  m_AnchoredPosition: {x: 459.2, y: -888.15063}
+  m_SizeDelta: {x: 918.4, y: 46.027397}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &264715301
 GameObject:
@@ -848,7 +848,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 459.2, y: -342.8173}
+  m_AnchoredPosition: {x: 459.2, y: -585.13696}
   m_SizeDelta: {x: 918.4, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &449502942
@@ -1635,7 +1635,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 459.2, y: -417.8173}
+  m_AnchoredPosition: {x: 459.2, y: -660.13696}
   m_SizeDelta: {x: 918.4, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &859595531
@@ -2415,7 +2415,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 459.2, y: -492.8173}
+  m_AnchoredPosition: {x: 459.2, y: -735.13696}
   m_SizeDelta: {x: 918.4, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1181119687
