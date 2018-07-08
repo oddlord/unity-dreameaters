@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4937031419898260}
   m_Layer: 0
-  m_Name: FirePoint (1)
+  m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,7 +73,7 @@ GameObject:
   - component: {fileID: 95815936276909190}
   - component: {fileID: 114202637246592486}
   m_Layer: 0
-  m_Name: purple (8) 1
+  m_Name: Sci-FiWeapon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
