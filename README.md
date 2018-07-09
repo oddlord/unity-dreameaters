@@ -10,6 +10,22 @@ Only the winner will eat!
 
 **Game still under development!**
 
+Latest release available [here](https://github.com/oddlord/unity-dreameaters/raw/master/Dreameaters/Release/Dreameaters-win_x64.zip).
+
+## Controls
+
+### In menus
+
+* **mouse/keyboard**: as usual
+
+### In game
+
+* **mouse**: look around
+* **mouse left click**: shoot
+* **W/A/S/D**: move around
+* **ESC**: toggle pause menu
+* **TAB (hold)**: show scoreboard
+
 ## Credits
 
 * This game is based on a previous game I made while learning Unity, [Multiplayer FPS](https://github.com/oddlord/unity-projects/tree/master/MultiplayerFPS) (thx to [Brackeys](http://brackeys.com/)'s tutorials)
