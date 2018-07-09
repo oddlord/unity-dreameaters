@@ -61,6 +61,7 @@ public class PlayerShoot : NetworkBehaviour {
     // a shoot effect
     [ClientRpc]
     void RpcDoShootEffect() {
+        weaponManager.GetCurrentSounds().PlayShotSound();
         weaponManager.GetCurrentGraphics().muzzleFlash.Play();
     }
 
