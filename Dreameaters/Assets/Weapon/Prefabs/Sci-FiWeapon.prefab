@@ -316,8 +316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa5ab12c06dd2c4584633d7af8ebf71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gunShot: {fileID: 8300000, guid: 180f9a759e83f6f4b836fde9f6df29a3, type: 3}
-  gunCock: {fileID: 8300000, guid: 3b548172c84c167408ba283b858f191f, type: 3}
+  shotSound: {fileID: 8300000, guid: 457ba6b452c98a74caa206f173b92312, type: 3}
+  cockSound: {fileID: 8300000, guid: 3b548172c84c167408ba283b858f191f, type: 3}
 --- !u!198 &198522721074985408
 ParticleSystem:
   m_ObjectHideFlags: 1

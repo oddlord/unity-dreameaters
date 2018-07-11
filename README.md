@@ -34,3 +34,5 @@ Latest release available [here](https://github.com/oddlord/unity-dreameaters/raw
 * Weapon model: [Sci-Fi Guns](https://assetstore.unity.com/packages/3d/props/guns/sci-fi-guns-88461) asset by [Astronaut](https://assetstore.unity.com/publishers/24538)
 * Ghost character model: [Level 1 Monster Pack](https://assetstore.unity.com/packages/3d/characters/creatures/level-1-monster-pack-77703) asset by [PI Entertainment Limited](https://assetstore.unity.com/publishers/10960)
 * Gun icon: [64 Flat Game Icons](https://assetstore.unity.com/packages/2d/gui/icons/64-flat-game-icons-36440) asset by [Office57](https://assetstore.unity.com/publishers/13242)
+* Laser shot sound: [Laser Wrath 4](https://freesound.org/people/marcuslee/sounds/42106/) sound effect track by [marcuslee](https://freesound.org/people/marcuslee/)
+* Gun cocking sound: [Gun cock](https://freesound.org/people/pockroozer/sounds/421794/) sound effect track by [pockroozer](https://freesound.org/people/pockroozer/)

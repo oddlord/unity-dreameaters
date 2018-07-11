@@ -8,9 +8,9 @@ public class WeaponSounds : MonoBehaviour {
     private AudioSource audioSource;
 
     [SerializeField]
-    private AudioClip gunShot;
+    private AudioClip shotSound;
     [SerializeField]
-    private AudioClip gunCock;
+    private AudioClip cockSound;
 
     // Use this for initialization
     void Start () {
@@ -23,10 +23,10 @@ public class WeaponSounds : MonoBehaviour {
     }
 	
 	public void PlayShotSound() {
-        loadClipAndPlay(gunShot);
+        loadClipAndPlay(shotSound);
     }
 
     public void PlayCockSound() {
-        loadClipAndPlay(gunCock);
+        loadClipAndPlay(cockSound);
     }
 }
