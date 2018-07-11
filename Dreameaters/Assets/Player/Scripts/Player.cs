@@ -79,9 +79,9 @@ public class Player : NetworkBehaviour {
             return;
         }
 
-        if (Input.GetKeyDown(KeyCode.K)) {
-            RpcTakeDamage(currentHealth, transform.name);
-        }
+        //if (Input.GetKeyDown(KeyCode.K)) {
+        //    RpcTakeDamage(currentHealth, transform.name);
+        //}
     }
 
     [ClientRpc] // A ClientRPC is a method called from the server that is executed on all the clients

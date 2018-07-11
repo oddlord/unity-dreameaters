@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.Networking;
 
 [RequireComponent(typeof(WeaponManager))]
@@ -61,8 +62,17 @@ public class PlayerShoot : NetworkBehaviour {
     // a shoot effect
     [ClientRpc]
     void RpcDoShootEffect() {
+        StartCoroutine(DoShootEffectCoroutine());
+    }
+
+    IEnumerator DoShootEffectCoroutine() {
         weaponManager.GetCurrentSounds().PlayShotSound();
-        weaponManager.GetCurrentGraphics().muzzleFlash.Play();
+
+        WeaponGraphics weaponGraphics = weaponManager.GetCurrentGraphics();
+        weaponGraphics.muzzleFlash.Play();
+        weaponGraphics.laserRendered.enabled = true;
+        yield return new WaitForSeconds(weaponGraphics.laserTime);
+        weaponGraphics.laserRendered.enabled = false;
     }
 
     // Is called on the Server when we hit something
