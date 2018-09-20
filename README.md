@@ -28,7 +28,6 @@ Latest release available [here](https://github.com/oddlord/unity-dreameaters/raw
 
 ## Credits
 
-* This game is based on a previous game I made while learning Unity, [Multiplayer FPS](https://github.com/oddlord/unity-projects/tree/master/MultiplayerFPS) (thx to [Brackeys](http://brackeys.com/)'s tutorials)
 * Database: [Database Control (Free)](https://assetstore.unity.com/packages/tools/network/database-control-free-41337) by [Solution Studios](https://assetstore.unity.com/publishers/7260)
 * Bedroom environment: [Bedroom](https://assetstore.unity.com/packages/3d/props/interior/bedroom-9337) asset by [Vertex Studio](https://assetstore.unity.com/publishers/2053)
 * Weapon model: [Sci-Fi Guns](https://assetstore.unity.com/packages/3d/props/guns/sci-fi-guns-88461) asset by [Astronaut](https://assetstore.unity.com/publishers/24538)
